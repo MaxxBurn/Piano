@@ -3,7 +3,7 @@
 <main>
 <b> A 5 tile Piano app </b>
   
-I wanted to go for a 88 tile at first but decided to go for 5 halfway through. It's the same idea but more code.
+I wanted to go for a 88 tile at first but decided to go for 5 halfway through. It's the same idea but less code.
 
 
 <b> What i learned :</b>
