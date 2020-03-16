@@ -8,7 +8,7 @@ I wanted to go for a 88 tile at first but decided to go for 5 halfway through. I
 
 <b> What i learned :</b>
 
-1. How to add .ico , .wave files into my projects.
+1.How to add .ico , .wave files into my projects.
 
 2.Using buttons
 
